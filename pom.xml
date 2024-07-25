@@ -55,6 +55,5 @@
                 </executions>
             </plugin>
         </plugins>
-        <finalName>my-tomcat</finalName>
     </build>
 </project>
