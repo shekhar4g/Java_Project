@@ -55,5 +55,6 @@
                 </executions>
             </plugin>
         </plugins>
+        <finalName>Java_Project</finalName>
     </build>
 </project>
